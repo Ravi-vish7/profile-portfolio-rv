@@ -282,6 +282,11 @@ nav p {
     height: 250px;
     width: 300px;
 }
+.project-card image {
+    height: 250px;
+    width: 300px;
+}
+
 .project-card a{
     color: white;
     color: black;
